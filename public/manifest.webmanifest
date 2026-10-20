@@ -1,0 +1,13 @@
+{
+  "name": "Pokédex 151",
+  "short_name": "Pokédex",
+  "description": "Los 151 Pokémon originales de la región de Kanto.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#090d0c",
+  "theme_color": "#090d0c",
+  "lang": "es",
+  "icons": [
+    { "src": "favicon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
