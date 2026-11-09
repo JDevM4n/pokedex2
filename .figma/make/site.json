@@ -1,5 +1,7 @@
 {
-  "description": "Explore and interact with the original 151 Kanto Pokémon through an immersive, animated Pokédex featuring real data, smart search, filters, and 3D models.",
+  "title": "Pokédex 151",
+  "language": "es",
+  "description": "Explora los 151 Pokémon originales de Kanto en una Pokédex animada con datos reales, búsqueda inteligente y filtros por tipo.",
   "robots": {
     "index": false
   },
